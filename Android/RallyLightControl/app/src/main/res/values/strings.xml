@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RallyLightControl</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_bluetooth">Choose Device</string>
+    <string name="action_connect">Connect</string>
+    <string name="title_activity_add">AddActivity</string>
+</resources>
